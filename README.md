@@ -1,17 +1,13 @@
-# flutter_application_1
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Profile App - Mini Project Flutter
+ 
+Mini project Flutter dengan satu halaman utama berupa **Profile App**. Dibuat untuk memenuhi tugas **Lesson 2 - Dart Essentials** (Universitas Teknologi Bandung - Diktisaintek Berdampak).
+ 
+## Identitas
+ 
+| | |
+|---|---|
+| Nama | Muzakki Fadlillah Gunadi |
+| NIM | 24552011062 |
+| Program Studi | Teknik Informatika |
+| Kampus | Universitas Teknologi Bandung |
+| GitHub | [Muz-script](https://github.com/Muz-script) |
