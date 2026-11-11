@@ -1,7 +1,3 @@
-# Profile App - Mini Project Flutter
- 
-Mini project Flutter dengan satu halaman utama berupa **Profile App**. Dibuat untuk memenuhi tugas **Lesson 2 - Dart Essentials** (Universitas Teknologi Bandung - Diktisaintek Berdampak).
- 
 ## Identitas
  
 | | |
